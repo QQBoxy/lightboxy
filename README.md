@@ -1,10 +1,12 @@
 # LightBoxy
 
+![](screenshot1.jpg)
+
 Home Assistant connects to ESP8266 [^1] via MQTT [^2] to adjust the brightness of smart lights.
 
-![](screenshot.png)
-
 ## Home Assistant
+
+![](screenshot2.png)
 
 The `configuration.yaml` is set as follows.
 
